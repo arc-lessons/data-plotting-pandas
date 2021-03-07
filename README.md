@@ -1,10 +1,10 @@
-# Working with Data and Plotting using numpy
+# Working with Data and Plotting using pandas
 
 (C) 2018-21 Jack Betteridge (J.D.Betteridge@bath.ac.uk) and James Grant(rjg20@bath.ac.uk)
 
 This repository is derived from the lessons:
 [Introduction to working with data and plotting](https://github.com/arc-lessons/intro-data-plotting) and
-[Performant Python](https://github.com/arc-lessons/data-analysis)
+[Data Analysis](https://github.com/arc-lessons/data-analysis)
 
 Themselves, derived from many sources:
 * Chrys Woods' material available [here](https://chryswoods.com/python_and_data).
